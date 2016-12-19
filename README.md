@@ -9,8 +9,11 @@
 ## How to use?
  * User provides the path for the **maze image** and **a flag** whether to display the steps of maze solution "-d" or just display the final solution "-r".
  * If no or wrong flag is provided, default behaviour is to output the final solution as a png image only.  
- * The app takes the command line arguments as follows: <exe name> <image_name> <-d or -r>  
- * e.g. MazeSolver.exe maze.png -d  OR  MazeSolver.exe maze.png -r
+ * The app takes the command line arguments as follows: exe_name image_name <-d OR -r>  
+ * examples: 
+    * MazeSolver.exe maze.png -d    
+	* MazeSolver.exe maze.png -r
+	* MazeSolver.exe maze.png
 
   
 ## Constraints
