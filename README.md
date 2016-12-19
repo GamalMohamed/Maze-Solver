@@ -4,7 +4,7 @@
  It's an app that solves a Maze!  
  The app takes the Maze's image as an input and outputs the solution path superimposed on its image..  
    
- Built using OpenCV v3.1 by C++  and developed on VS2015...
+ Built using OpenCV 3.1 in C++  and developed on VS2015...
  
 ## How to use?
  * User provides the path for the **maze image** and **a flag** whether to display the steps of maze solution "-d" or just display the final solution "-r".
@@ -15,7 +15,7 @@
   
 ## Constraints
 
-**Maze must be a Perfect maze**
+**Maze must be a Perfect maze**  
 A “Perfect maze” is defined as a maze which has one and only one path from any point in the maze to any other point.  
 This means that the maze has no inaccessible sections, no circular paths, and no open areas.
  
