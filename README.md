@@ -14,7 +14,7 @@
     * MazeSolver.exe maze.png -d    
 	* MazeSolver.exe maze.png -r
 	* MazeSolver.exe maze.png
- * You can use this [generator] (http://www.mazegenerator.net/) generate any mazes u like.  
+ * You can use this [generator] (http://www.mazegenerator.net/) to make any mazes u like.  
    Any Rectangular Orthogonal maze can be solved!  
 
   
