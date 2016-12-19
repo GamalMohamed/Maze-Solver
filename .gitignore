@@ -1,0 +1,13 @@
+MazeSolver/.vs
+MazeSolver/Debug
+MazeSolver/x64
+
+MazeSolver/MazeSolver/Debug
+MazeSolver/MazeSolver/x64
+
+*.db
+
+
+
+
+
